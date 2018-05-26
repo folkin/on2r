@@ -1,0 +1,68 @@
+
+div.west .state.west.north { fill: #E63025; fill-opacity: .4; }
+div.west .state.west.south { fill:#AC1E23; fill-opacity: .4; }
+
+div.central .state.central.north { fill: #FEC53C; fill-opacity: .4; }
+div.central .state.central.south { fill:#EB6C24; fill-opacity: .4; }
+
+div.east .state.east.north { fill: #99BF3C; fill-opacity: .4; }
+div.east .state.east.south { fill:#2A996C; fill-opacity: .4; }
+
+div.north .state.north.west { fill: #E63025; fill-opacity: .4; }
+div.north .state.north.central { fill: #FEC53C; fill-opacity: .4; }
+div.north .state.north.east { fill: #99BF3C; fill-opacity: .4; }
+
+div.south .state.south.west { fill: #AC1E23; fill-opacity: .4; }
+div.south .state.south.central { fill: #EB6C24; fill-opacity: .4; }
+div.south .state.south.east { fill: #2A996C; fill-opacity: .4; }
+
+div.AL #AL { fill-opacity: 1; stroke-width: 2; }
+div.AR #AR { fill-opacity: 1; stroke-width: 2; }
+div.AZ #AZ { fill-opacity: 1; stroke-width: 2; }
+div.CA #CA { fill-opacity: 1; stroke-width: 2; }
+div.CO #CO { fill-opacity: 1; stroke-width: 2; }
+div.FL #FL { fill-opacity: 1; stroke-width: 2; }
+div.GA #GA { fill-opacity: 1; stroke-width: 2; }
+div.IA #IA { fill-opacity: 1; stroke-width: 2; }
+div.ID #ID { fill-opacity: 1; stroke-width: 2; }
+div.IL #IL { fill-opacity: 1; stroke-width: 2; }
+div.IN #IN { fill-opacity: 1; stroke-width: 2; }
+div.KS #KS { fill-opacity: 1; stroke-width: 2; }
+div.KY #KY { fill-opacity: 1; stroke-width: 2; }
+div.LA #LA { fill-opacity: 1; stroke-width: 2; }
+div.MA #MA { fill-opacity: 1; stroke-width: 2; }
+div.MC #MC { fill-opacity: 1; stroke-width: 2; }
+div.MI #MI { fill-opacity: 1; stroke-width: 2; }
+div.MN #MN { fill-opacity: 1; stroke-width: 2; }
+div.MO #MO { fill-opacity: 1; stroke-width: 2; }
+div.MS #MS { fill-opacity: 1; stroke-width: 2; }
+div.MT #MT { fill-opacity: 1; stroke-width: 2; }
+div.NC #NC { fill-opacity: 1; stroke-width: 2; }
+div.ND #ND { fill-opacity: 1; stroke-width: 2; }
+div.NE #NE { fill-opacity: 1; stroke-width: 2; }
+div.NM #NM { fill-opacity: 1; stroke-width: 2; }
+div.NV #NV { fill-opacity: 1; stroke-width: 2; }
+div.NY #NY { fill-opacity: 1; stroke-width: 2; }
+div.OH #OH { fill-opacity: 1; stroke-width: 2; }
+div.OK #OK { fill-opacity: 1; stroke-width: 2; }
+div.OR #OR { fill-opacity: 1; stroke-width: 2; }
+div.PA #PA { fill-opacity: 1; stroke-width: 2; }
+div.SC #SC { fill-opacity: 1; stroke-width: 2; }
+div.SD #SD { fill-opacity: 1; stroke-width: 2; }
+div.TN #TN { fill-opacity: 1; stroke-width: 2; }
+div.TX #TX { fill-opacity: 1; stroke-width: 2; }
+div.UT #UT { fill-opacity: 1; stroke-width: 2; }
+div.VA #VA { fill-opacity: 1; stroke-width: 2; }
+div.WA #WA { fill-opacity: 1; stroke-width: 2; }
+div.WI #WI { fill-opacity: 1; stroke-width: 2; }
+div.WV #WV { fill-opacity: 1; stroke-width: 2; }
+div.WY #WY { fill-opacity: 1; stroke-width: 2; }
+
+.state
+{
+  fill: #DFE3E4;
+  fill-opacity: .75;
+  stroke: white;
+  stroke-opacity: 1;
+  stroke-width:1;
+}
