@@ -9,12 +9,12 @@
   <body class="container">
     <div id="app" class="columns col-oneline m-2"></div>
     <script id="template" type="text/html">
-      <div class="col-10 col-mx-auto">
+      <div class="col-4 col-xl-6 col-lg-6 col-md-8 col-sm-10 col-xs-12 col-mx-auto">
         <div class="panel">
             <div class="panel-body">
               <div v-for="card in game.cards" :class="cardClass(card)">
                 <div class="card-image text-center">
-                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1200 675" >
+                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80%" version="1.1" viewBox="0 0 1200 675" >
                     <us-map />
                   </svg>
                 </div>
